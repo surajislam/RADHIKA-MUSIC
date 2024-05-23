@@ -24,7 +24,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/baf496fbd447b514a5280.mp4">
+  <img src="https://graph.org/file/4ef62e734ca0e294c30b3.jpg">
 </p>
 
 <p align="center">
