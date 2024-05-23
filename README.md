@@ -49,7 +49,7 @@
     ─「 𝑫𝑬𝑷𝑳𝑶𝒀 𝑶𝑵 𝑳𝑶𝑪𝑨𝑳 𝑯𝑶𝑺𝑻/𝑽𝑷𝑺 」─
 </h3>
 
-- Get your [𝑵𝑬𝑪𝑬𝑺𝑺𝑨𝑹𝒀 𝑽𝑨𝑹𝑰𝑨𝑩𝑳𝑬](https://t.me/starxbots_network)
+- Get your [𝑵𝑬𝑪𝑬𝑺𝑺𝑨𝑹𝒀 𝑽𝑨𝑹𝑰𝑨𝑩𝑳𝑬](https://t.me/anokhikeduniya)
 - Upgrade and Update by :
 `sudo apt-get update && sudo apt-get upgrade -y`
 - Install Ffmpeg by :
