@@ -24,7 +24,7 @@
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/079f89846b25766add82e.jpg">
+  <img src="https://graph.org/file/4ef62e734ca0e294c30b3.jpg">
 </p>
 
 <p align="center">
@@ -36,7 +36,7 @@
 </p>
 
 <p align="center">
-  <img src="https://graph.org/file/13b7f9fed4ec6b0150e71.jpg">
+  <img src="https://graph.org/file/4ef62e734ca0e294c30b3.jpg">
 </p>
 
 <h3 align="center">
@@ -82,11 +82,11 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 </h3>
 
 <p align="center">
-<a href="https://t.me/starxbots_network"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
+<a href="NHI HA BHAI"><img src="https://img.shields.io/badge/-Support%20Group-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
 <p align="center">
 <a href="https://t.me/D"><img src="https://img.shields.io/badge/-Support%20Channel-blue.svg?style=for-the-badge&logo=Telegram"></a>
 </p>
 
-- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ 𝐕𝐈𝐂𝐊𝐘 𝐂𝐇𝐎𝐔𝐃𝐇𝐀𝐑𝐘 ](https://t.me/starxbots_network) ғᴏʀ [ 𝐑𝐀𝐃𝐇𝐈𝐊𝐀 𝐌𝐔𝐒𝐈𝐂 ](https://t.me/starxbots_network)_ </b>
+- <b> _sᴩᴇᴄɪᴀʟ ᴛʜᴀɴᴋs ᴛᴏ [ SIMPLE BOY ](NHI HA ) ғᴏʀ [ SURAJ 𝐌𝐔𝐒𝐈𝐂 ](YEH VI NHI HA )_ </b>
