@@ -20,7 +20,7 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 16000))
 
 # Chat id of a group for logging bot's activities
 LOGGER_ID = int(getenv("LOGGER_ID"))
-LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002136795173"))
+LOG_GROUP_ID = int(getenv("LOG_GROUP_ID", "-1002126936204"))
 
 # Get this value from  on Telegram by /id
 OWNER_ID = int(getenv("OWNER_ID"))
@@ -40,8 +40,8 @@ GIT_TOKEN = getenv(
     "GIT_TOKEN", None
 )  # Fill this variable if your upstream repository is private
 
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/starxbots_network")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/starxbots_network")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/anokhikeduniya")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/unicorno00008")
 
 # Maximum Limit Allowed for users to save playlists on bot's server
 SERVER_PLAYLIST_LIMIT = int(getenv("SERVER_PLAYLIST_LIMIT", "100"))
@@ -114,13 +114,13 @@ clean = {}
 autoclean = []
 
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/847eb1da32b3a83b744ca.png"
+    "START_IMG_URL", "https://graph.org/file/baf496fbd447b514a5280.mp4"
 )
 PING_IMG_URL = getenv(
-    "PING_IMG_URL", "https://telegra.ph/file/968214e6a8d20bcbbcc54.png"
+    "PING_IMG_URL", "https://graph.org/file/4ef62e734ca0e294c30b3.jpg"
 )
 PLAYLIST_IMG_URL = "https://telegra.ph/file/c47d439ee2d8b137a6b3d.png"
-STATS_IMG_URL = "https://telegra.ph/file/fab80b8c2776aaaa1b447.png"
+STATS_IMG_URL = "https://graph.org/file/4ef62e734ca0e294c30b3.jpg"
 TELEGRAM_AUDIO_URL = "https://telegra.ph/file/c47d439ee2d8b137a6b3d.png"
 TELEGRAM_VIDEO_URL = "https://telegra.ph/file/c47d439ee2d8b137a6b3d.png"
 STREAM_IMG_URL = "https://telegra.ph/file/c47d439ee2d8b137a6b3d.png"
