@@ -8,23 +8,23 @@
 
 <p align="center">
     <b>ᴠɪsɪᴛᴏʀs</b><br>
- -->    <img align="middle" src="https://profile-counter.glitch.me/THE-VIP-BOY-OP/count.svg" />
+ -->    <img align="middle" src="https://profile-counter.glitch.me/II_SB_ANGLE_II/count.svg" />
 </p>
 
 
 
 
 <h2 align="center">
-    ─「 𝑽𝑰𝑪𝑲𝒀 𝑴𝑼𝑺𝑰𝑪 」─
+    ─「 SIMPLE 𝑴𝑼𝑺𝑰𝑪 」─
 
 ★ 𝙷𝙴𝚁𝙾𝙺𝚄 + 𝚅𝙿𝚂 ★
 </h2>
 <h2 align="center">
-    ─「 𝑹𝑨𝑫𝑯𝑰𝑲𝑨 𝑴𝑼𝑺𝑰𝑪 」─
+    ─「 SURAJ 𝑴𝑼𝑺𝑰𝑪 」─
 </h2>
 
 <p align="center">
-  <img src="https://graph.org/file/4ef62e734ca0e294c30b3.jpg">
+  <img src="https://graph.org/file/baf496fbd447b514a5280.mp4">
 </p>
 
 <p align="center">
